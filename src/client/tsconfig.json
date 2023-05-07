@@ -1,0 +1,13 @@
+{
+    "exclude": [],
+    "compilerOptions": {
+        "target": "ES2021",
+        "outDir": "../../.build/",
+        "skipLibCheck": true,
+        "rootDir": "",
+        "lib": [
+            "ES2021",
+            "dom"
+        ]
+    }
+}
